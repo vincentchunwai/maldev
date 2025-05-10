@@ -1,0 +1,9 @@
+[package]
+name = "payload_staging_rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4.10.2"
+# Add the windows crate with WinInet features
+windows = { version = "0.52", features = ["Win32_Foundation", "Win32_Networking_WinInet"] }

@@ -1,0 +1,11 @@
+C:\Users\cheun\GitDev\maldev\payload_staging\payload_staging_rs\target\debug\deps\libppv_lite86-b5b9128462655a6d.rmeta: C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src/lib.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\soft.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\types.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\mod.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\sse2.rs
+
+C:\Users\cheun\GitDev\maldev\payload_staging\payload_staging_rs\target\debug\deps\libppv_lite86-b5b9128462655a6d.rlib: C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src/lib.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\soft.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\types.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\mod.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\sse2.rs
+
+C:\Users\cheun\GitDev\maldev\payload_staging\payload_staging_rs\target\debug\deps\ppv_lite86-b5b9128462655a6d.d: C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src/lib.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\soft.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\types.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\mod.rs C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\sse2.rs
+
+C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src/lib.rs:
+C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\soft.rs:
+C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\types.rs:
+C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\mod.rs:
+C:\Users\cheun\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.21\src\x86_64\sse2.rs:
