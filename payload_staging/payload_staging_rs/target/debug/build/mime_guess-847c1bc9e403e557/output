@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=C:\Users\cheun\GitDev\maldev\payload_staging\payload_staging_rs\target\debug\build\mime_guess-847c1bc9e403e557\out\mime_types_generated.rs
